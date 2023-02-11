@@ -1,0 +1,30 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB2.PcbDoc   20.09.2022  16:56:38
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB2-RoundHoles.TXT
+ASCII SquareHoles File : PCB2-SquareHoles.TXT
+ASCII RectHoles File : PCB2-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             36        PTH        216.82mm (8.54inch)
+T2      0.3mm (12mil)                                             Round             9         PTH        49.58mm (1.95inch)
+T3      0.4mm (16mil)                                             Round             23        PTH        266.49mm (10.49inch)
+T4      0.657mm (26mil)                                           Round             4         PTH        49.68mm (1.96inch)
+T5      0.711mm (28mil)                                           Round             12        PTH        103.41mm (4.07inch)
+T6      0.9mm (35mil)                                             Round             4         PTH        6.50mm (0.26inch)
+T7      1mm (39mil)                                               Round             17        PTH        144.09mm (5.67inch)
+T8      1mm (39mil)                                               Rectangle         1         PTH        1.30mm (0.05inch)
+T9      1.3mm (51mil)                                             Rectangle         1         PTH        2.10mm (0.08inch)
+T10     1.5mm (59mil)                                             Round             4         PTH        15.24mm (0.60inch)
+T11     1.5mm (59mil)                                             Square            36        PTH        564.63mm (22.23inch)
+T12     2mm (79mil)                                               Square            2         PTH        8.30mm (0.33inch)
+T13     2.3mm (91mil)                                             Round             2         PTH        12.04mm (0.47inch)
+T14     2.6mm (102mil)                                            Round             4         PTH        145.00mm (5.71inch)
+T15     3mm (118mil)                                              Round             3         PTH        140.03mm (5.51inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              158
+
+Total Processing Time (hh:mm:ss) : 00:00:00

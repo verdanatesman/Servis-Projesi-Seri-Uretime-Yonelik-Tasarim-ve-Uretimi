@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\Belgeler\Altium\Servis\Servis002\ServisV2\PCB2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb2-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Square_Holes|DrillFile=pcb2-squareholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=pcb2-rectholes.txt|DrillLayers=gtl,gbl
